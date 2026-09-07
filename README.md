@@ -1,9 +1,9 @@
 # Data-Analytics-Portfolio
-# 🚢 Titanic Passenger Analysis
+## 🚢 Titanic Passenger Analysis
 
-![Titanic Dashboard](screenshots/Titanic_Dashboard.png)
+![Titanic Dashboard]()
 
-## 📌 Project Overview
+## Project Overview
 
 The **Titanic Passenger Analysis** is a data analytics project focused on exploring passenger demographics, survival patterns, passenger class, gender, family size, embarkation locations, passenger titles, and cabin information from the Titanic dataset.
 
@@ -44,7 +44,7 @@ The analysis was designed to answer the following questions:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains information about passengers who travelled on the Titanic.
 
@@ -70,7 +70,7 @@ The `Status` field was used to distinguish between passengers who **survived** a
 
 ---
 
-## 🧹 Data Cleaning & Transformation
+##  Data Cleaning & Transformation
 
 The dataset was prepared using **Power Query** before being loaded into Power BI.
 
@@ -91,7 +91,7 @@ These transformations helped ensure that the data was suitable for analysis and 
 
 ---
 
-# 📈 Dashboard
+# Dashboard
 
 The Power BI dashboard provides an interactive overview of Titanic passenger data.
 
@@ -101,15 +101,15 @@ The dashboard shows:
 
 | Metric | Result |
 |---|---:|
-| 👥 Total Passengers | **891** |
-| ⚰️ Passengers Died | **549** |
-| 🛟 Passengers Survived | **342** |
-| 📉 Survival Rate | **38.4%** |
-| 📉 Death Rate | **61.6%** |
+|  Total Passengers | **891** |
+|  Passengers Died | **549** |
+|  Passengers Survived | **342** |
+|  Survival Rate | **38.4%** |
+|  Death Rate | **61.6%** |
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 ### 1. Passengers Survived by Sex
 
@@ -180,7 +180,7 @@ Because cabin information contains many individual cabin values and missing entr
 
 ---
 
-# 🔍 Key Insights
+#  Key Insights
 
 The analysis produced several important findings:
 
@@ -235,7 +235,7 @@ This suggests that a substantial proportion of passengers were travelling withou
 
 ---
 
-# 💡 Business/Data Analytics Perspective
+#  Business/Data Analytics Perspective
 
 Although the Titanic dataset is historical, the project demonstrates several transferable data analytics skills.
 
@@ -252,7 +252,7 @@ The project demonstrates how raw data can be transformed into an interactive das
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 Titanic-Passenger-Analysis/
