@@ -1,5 +1,5 @@
 # Data-Analytics-Portfolio
-## 🚢 Titanic Passenger Analysis
+##  Titanic Passenger Analysis
 
 ![Titanic Dashboard]()
 
@@ -13,7 +13,7 @@ The goal of this project is to understand the factors and patterns associated wi
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The analysis was designed to answer the following questions:
 
@@ -32,7 +32,7 @@ The analysis was designed to answer the following questions:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
